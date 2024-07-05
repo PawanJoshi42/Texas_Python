@@ -128,8 +128,8 @@ first_name = 'Dilip'
 # equ = 2 + 3 * 6 / (4**5)
 
 
-#Ternary Operators
-#checking maximum value
+# Ternary Operators
+# checking maximum value
 # a,b = 10,20
 # min = a if a < b else b
 # print(min)
@@ -193,32 +193,4 @@ first_name = 'Dilip'
 #     print("Your are failed")
 
 
-# Write a program to calculate the electricity bill(accept number of unit from user)
-#according to the following criteria:
 
-# unit = int(input("Enter your unit"))
-# if unit <= 100:
-#    print("No charge !! ")
-# elif unit <=200 and unit>100:
-#     print("Your total bill amount"+ str((unit-100)*5))
-# elif unit > 200:
-#     print("Your total bill amount"+ str(500+(unit-200)*10))
-
-
-#Loop condition 
-                  #For Loop
-                  #While Loop
-                  #Nested Loop
-
-
-#For loop example
-        # text="Pythonprograaming"
-        # for i in text:
-        # print(i)
-
-#For loop with example:
-fruits=["apple","banana","grapes"]
-for index in range(len(fruits)):
- print(len(fruits))
-else:
- print("Inside Else Block")
